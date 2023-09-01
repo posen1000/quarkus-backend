@@ -3,7 +3,7 @@ This is a sample application for the book, Getting Started with OpenShift.
 
 It's a web app that allows users to `list, add, and delete` posts with content.
 
-The Post-It Application that is composed of:
+The Post-It Application that is composed of: a
 - [a quarkus backend](https://github.com/openshift-for-developers/quarkus-backend)
 - [a nodejs react frontend](https://github.com/openshift-for-developers/nodejs-frontend)
 - an optionally deployed database
